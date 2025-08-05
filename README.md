@@ -1,6 +1,7 @@
    <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Automation Banner" width="100%">
+  <img src="https://cyclr.com/nitropack_static/VuXxlbQNhqQgnktlfMtCedOWhlGohlKT/assets/images/optimized/rev-1d1934b/cyclr.com/wp-content/uploads/2021/02/Benefits-of-Automation-and-Integration.png" alt="Automation Banner" width="100%">
 </div>
+  <img src="cyclr.com/nitropack_static/VuXxlbQNhqQgnktlfMtCedOWhlGohlKT/assets/images/optimized/rev-1d1934b/cyclr.com/wp-content/uploads/2021/02/Benefits-of-Automation-and-Integration.png" alt="Automation Banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Automation Architect | n8n Specialist | Workflow Engineer</h3>
@@ -154,16 +155,6 @@ My approach combines technical expertise with a deep understanding of business p
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
 </div>
-
----
-
-## 📚 Learning Resources
-
-### Recommended for Automation Enthusiasts
-- [n8n Documentation](https://docs.n8n.io)
-- [API Design Guide](https://restfulapi.net)
-- [JavaScript Automation Patterns](link)
-- [Python for Automation](link)
 
 ---
 
