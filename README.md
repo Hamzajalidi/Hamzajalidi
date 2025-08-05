@@ -10,7 +10,7 @@
 
 ## 🌟 Summary
 
-I'm a **dedicated automation engineer** with a strong focus on **n8n**, workflow orchestration, and API integrations. Over the past [X] years, I've helped organizations automate repetitive tasks, integrate complex systems, and build scalable workflows that enhance operational efficiency.
+I'm a **dedicated automation engineer** with a strong focus on **n8n**, workflow orchestration, and API integrations.   I've helped organizations automate repetitive tasks, integrate complex systems, and build scalable workflows that enhance operational efficiency.
 
 My approach combines technical expertise with a deep understanding of business processes, enabling me to design solutions that are not only powerful but also intuitive and maintainable.
 
