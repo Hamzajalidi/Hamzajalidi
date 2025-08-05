@@ -1,7 +1,7 @@
    <div align="center">
   <img src="" alt="Automation Banner" width="100%">
 </div> 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Hamza Jalidi]</h1>
 <h3 align="center">Automation Architect | n8n Specialist | Workflow Engineer</h3>
 
 <div align="center">
@@ -88,12 +88,12 @@ My approach combines technical expertise with a deep understanding of business p
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamzajalidi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzajalidi&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzajalidi&theme=radical" />
 </div>
 
 ---
@@ -137,7 +137,7 @@ My approach combines technical expertise with a deep understanding of business p
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hamzajalidi21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourusername">
@@ -163,12 +163,8 @@ My approach combines technical expertise with a deep understanding of business p
 - 🌍 I've helped automate workflows in over 10 countries.
 - 🎮 I enjoy building automation games in my spare time.
 
----
 
-## 📜 License
-
-This README is licensed under the [MIT License](LICENSE).
-
+ 
 ---
 
 <div align="center">
