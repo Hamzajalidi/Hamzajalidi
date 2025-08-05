@@ -86,43 +86,12 @@ My approach combines technical expertise with a deep understanding of business p
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzajalidi&theme=radical" />
 </div>
 
+ 
 ---
+ 
 
-## 📝 Blog Posts & Tutorials
-
-1. [Building Scalable Workflows with n8n](link) - A deep dive into creating enterprise-grade automation.
-2. [API Integration Best Practices](link) - Tips for secure and efficient API integrations.
-3. [Error Handling in Automation Workflows](link) - Strategies for building resilient workflows.
-4. [From Zapier to n8n: Migration Guide](link) - How to transition your automation stack.
-5. [Custom Node Development for n8n](link) - Extending n8n with your own functionality.
-
----
-
-## 🎯 Achievements
-
-- 🏆 **Top Contributor** in n8n Community Forum
-- 🏅 **Certified n8n Automation Expert**
-- 📈 **Automated 500+ workflows** across various industries
-- 🌍 **Global Speaker** at Automation Conferences
-
----
-
-## 💬 Testimonials
-
-> "[Your Name] transformed our manual processes into fully automated workflows, saving us countless hours each week." – **Client Name**, CEO at Company
-
-> "Their expertise in n8n and system integration is unmatched. Highly recommend for any automation project." – **Colleague Name**, CTO at Startup
-
----
-
-## 🤝 Community Involvement
-
-- Active contributor to [n8n Discord](https://discord.gg/n8n)
-- Speaker at [Automation Summit 2023](link)
-- Host of [Automation Weekly](link) podcast
-- Mentor at [Automation Academy](link)
-
----
+ 
+ 
 
 ## 🌐 Connect with Me
 
