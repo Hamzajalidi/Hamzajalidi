@@ -1,5 +1,5 @@
    <div align="center">
-  <img src="" alt="Automation Banner" width="100%">
+  <img src="03032e14-50ba-4f2a-8e4c-fb61a0ba1f01 (1).jpg" alt="Automation Banner" width="100%">
 </div> 
 <h1 align="center">Hi 👋, I'm [Hamza Jalidi]</h1>
 <h3 align="center">Automation Architect | n8n Specialist | Workflow Engineer</h3>
