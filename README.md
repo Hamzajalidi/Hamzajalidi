@@ -133,7 +133,7 @@ My approach combines technical expertise with a deep understanding of business p
   <a href="https://www.linkedin.com/in/hamza-jalidi-6ab077346/ ">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://x.com/jalid32498">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com">
