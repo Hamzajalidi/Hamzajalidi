@@ -5,10 +5,10 @@
 <h3 align="center">Automation Architect | n8n Specialist | Workflow Engineer</h3>
 
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Hamza-Jalidi">
     <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile views" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
   <a href="https://linkedin.com/in/yourusername">
