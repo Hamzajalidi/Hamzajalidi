@@ -1,8 +1,6 @@
    <div align="center">
-  <img src="https://cyclr.com/nitropack_static/VuXxlbQNhqQgnktlfMtCedOWhlGohlKT/assets/images/optimized/rev-1d1934b/cyclr.com/wp-content/uploads/2021/02/Benefits-of-Automation-and-Integration.png" alt="Automation Banner" width="100%">
-</div>
-  <img src="cyclr.com/nitropack_static/VuXxlbQNhqQgnktlfMtCedOWhlGohlKT/assets/images/optimized/rev-1d1934b/cyclr.com/wp-content/uploads/2021/02/Benefits-of-Automation-and-Integration.png" alt="Automation Banner" width="100%">
-
+  <img src="" alt="Automation Banner" width="100%">
+</div> 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Automation Architect | n8n Specialist | Workflow Engineer</h3>
 
