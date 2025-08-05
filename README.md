@@ -4,18 +4,8 @@
 <h1 align="center">Hi 👋, I'm [Hamza Jalidi]</h1>
 <h3 align="center">Automation Architect | n8n Specialist | Workflow Engineer</h3>
 
-<div align="center">
-  <a href="https://github.com/Hamza-Jalidi">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  </a>
-  <a href="https://x.com/jalid32498">
-    <img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
+ 
+ 
 ---
 
 ## 🌟 Summary
@@ -149,7 +139,7 @@ My approach combines technical expertise with a deep understanding of business p
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-%2334A853.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   </a>
-  <a href="https://youtube.com/yourchannel">
+  <a href="https://youtube.com/HamzaJalidi-v1x ">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
 </div>
