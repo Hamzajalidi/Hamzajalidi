@@ -9,4 +9,4 @@
 
 # 💻 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,ubuntu,debian,arch,redhat,nginx,py,c,docker,git,github,vim,vscode,notion,obsidian,wordpress)
+![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,py,c,ubuntu,debian,arch,redhat,nginx,docker,git,github,vim,vscode,notion,obsidian,wordpress)
