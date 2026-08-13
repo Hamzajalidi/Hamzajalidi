@@ -1,4 +1,12 @@
-## Hi there 👋
+
+👋 Hi, I'm [Hamza jalidi]!
+ 
+- 🖥️ System Administrator sharing my journey and learnings in IT infrastructure
+- 🎓 Studied Réseau et Système Informatique at OFPPT
+- 🌐 Focused on Linux/Windows Server administration & Networking
+- 🛠️ #learninginpublic about servers, networks, and automation
+- 📡 Currently learning about [Cloud / Automation / Security] — always leveling up!
+---
 
 <!--
 **Hamzajalidi/Hamzajalidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
