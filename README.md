@@ -1,6 +1,5 @@
+# 👋 Hi, I'm Hamza!
 
-👋 Hi, I'm [Hamza jalidi]!
- 
 - 🖥️ System Administrator sharing my journey and learnings in IT infrastructure
 - 🎓 Studied Réseau et Système Informatique at OFPPT
 - 🌐 Focused on Linux/Windows Server administration & Networking
